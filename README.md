@@ -20,7 +20,6 @@ colleague. I am building it to learn how databases are architected. I try handle
 - delete all
 - write
 
-
 ## Reading
 I am reading:
 - Learning SQL
